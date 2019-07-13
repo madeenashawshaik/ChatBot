@@ -1,0 +1,33 @@
+{
+  "id": "c79630f1-bd49-46f9-9dbe-143f5a6a24e4",
+  "parentId": "c728074a-fa44-4617-a24e-18ffb7efeefd",
+  "rootParentId": "c728074a-fa44-4617-a24e-18ffb7efeefd",
+  "name": "Amount_ME",
+  "auto": true,
+  "contexts": [
+    "Tuition_Fee_Amount_General-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tuition_Fee_Amount_General.Tuition_Fee_Amount_General-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tuition fee for ME is 4000 euros"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

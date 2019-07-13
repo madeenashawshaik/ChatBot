@@ -1,0 +1,24 @@
+[
+  {
+    "id": "545830e9-bb56-4be5-8b9c-b7f2a8b0a252",
+    "data": [
+      {
+        "text": "What is the amount of tuition fee for bachelor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "156a79bf-9a7a-47b5-a640-48057ee10d5b",
+    "data": [
+      {
+        "text": "What is the amount of tuition fee for international bachelor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

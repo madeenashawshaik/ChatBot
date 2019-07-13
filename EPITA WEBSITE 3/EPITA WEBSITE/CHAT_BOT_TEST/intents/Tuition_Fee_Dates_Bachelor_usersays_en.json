@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1c5bed94-a4b6-46f2-874c-9d6a1eccaeab",
+    "data": [
+      {
+        "text": "When do I have to pay tuition fee for bachelor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3c4dbebb-9195-45a5-9c16-9743779b2957",
+    "data": [
+      {
+        "text": "What is the deadline for paying tuition fee for bachelor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9421b70e-b6a7-4ccd-88bb-3cc6db464cda",
+    "data": [
+      {
+        "text": "What is date of paying tuition fee for bachelor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c3a1e1df-ff8d-400d-8b46-f082ac865952",
+    "data": [
+      {
+        "text": "What is the schedule for paying tuition fee for bachelor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

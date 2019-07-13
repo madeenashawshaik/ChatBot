@@ -1,0 +1,33 @@
+{
+  "id": "b41a1062-2a40-4082-9f89-be80ea97bf95",
+  "parentId": "c728074a-fa44-4617-a24e-18ffb7efeefd",
+  "rootParentId": "c728074a-fa44-4617-a24e-18ffb7efeefd",
+  "name": "Amount_MSc",
+  "auto": true,
+  "contexts": [
+    "Tuition_Fee_Amount_General-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tuition_Fee_Amount_General.Tuition_Fee_Amount_General-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Tuition fee for Msc is 3000 euro"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

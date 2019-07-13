@@ -1,0 +1,68 @@
+[
+  {
+    "id": "23738cc1-4a21-4fc7-bfe4-03919cd528b6",
+    "data": [
+      {
+        "text": "What is date of paying tuition fee for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "955753ed-935c-43ca-a22b-71558c536921",
+    "data": [
+      {
+        "text": "What is the schedule for paying tuition fee for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "136dd7d3-db9b-47b9-bdc4-eec3bc69016c",
+    "data": [
+      {
+        "text": "what is the last date for paying tuition fee for M.E,?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62c261ab-47d5-4fae-a968-f7ec17deb4e8",
+    "data": [
+      {
+        "text": "when to pay the tuition for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fff41891-9a15-486f-943b-d912180a295d",
+    "data": [
+      {
+        "text": "When do I have to pay tuition fee for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a247e88a-6f61-43ce-b2d6-b84bc8d24cde",
+    "data": [
+      {
+        "text": "What is the deadline for paying tuition fee for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

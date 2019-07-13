@@ -1,0 +1,33 @@
+{
+  "id": "f658d219-58df-4922-829c-ab8833b0561e",
+  "parentId": "c7133b7d-1b2c-46ed-89a2-5a22e6c33a6f",
+  "rootParentId": "c7133b7d-1b2c-46ed-89a2-5a22e6c33a6f",
+  "name": "Dates_Bachelor",
+  "auto": true,
+  "contexts": [
+    "Tuition_Fee_Dates_General-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tuition_Fee_Dates_General.Tuition_Fee_Dates_General-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Dates for paying bachelor is..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

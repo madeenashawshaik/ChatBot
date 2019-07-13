@@ -1,0 +1,101 @@
+[
+  {
+    "id": "337e0df5-f7c4-484b-bf35-ddfefb81bee8",
+    "data": [
+      {
+        "text": "How many installments for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "14fd6c14-a32f-415b-90da-3f20a758a5a1",
+    "data": [
+      {
+        "text": "What is the tuition fee for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "43222af8-e0f5-4e1a-9d72-37b92bceb198",
+    "data": [
+      {
+        "text": "How much is the tuition fee for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd573491-b12c-41bc-adfe-f25e62885b0c",
+    "data": [
+      {
+        "text": "can I pay the  tuition fee in Installments for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1dd1d4fd-af41-4c5c-ad63-fa245198b2e1",
+    "data": [
+      {
+        "text": "can I pay the fee in Installments for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "248a4a61-0cc2-4b94-bae6-97880e1e3c61",
+    "data": [
+      {
+        "text": "How many terms are there to the pay tuition fee for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa3ecd11-e9b8-460b-ac99-905a79f730b3",
+    "data": [
+      {
+        "text": "How many installments are there to the pay tuition fee for ME?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b3e066b1-0a61-42f9-a095-2d583df478d8",
+    "data": [
+      {
+        "text": "can I pay the fee in Installments?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2e44422b-f244-4453-8646-4ee7a7d7c780",
+    "data": [
+      {
+        "text": "How much is the tuition fee for Master of Engineering?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

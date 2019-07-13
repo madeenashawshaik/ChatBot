@@ -1,0 +1,33 @@
+{
+  "id": "e42d3092-9f6d-452b-8ff2-29b465f764c5",
+  "parentId": "c7133b7d-1b2c-46ed-89a2-5a22e6c33a6f",
+  "rootParentId": "c7133b7d-1b2c-46ed-89a2-5a22e6c33a6f",
+  "name": "Dates_MSc",
+  "auto": true,
+  "contexts": [
+    "Tuition_Fee_Dates_General-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tuition_Fee_Dates_General.Tuition_Fee_Dates_General-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Dates for paying MSc is..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

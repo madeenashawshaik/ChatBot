@@ -1,0 +1,57 @@
+[
+  {
+    "id": "a7bf0927-b4ba-4e90-b092-2e594920d794",
+    "data": [
+      {
+        "text": "What is the tuition fee for Master of Computer Science?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e2371e4b-f592-4f9a-a8d4-ed743d60a8f1",
+    "data": [
+      {
+        "text": "How may installments for MSC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c16acfe6-1532-4e20-8ea3-1a834812ec0b",
+    "data": [
+      {
+        "text": "can I pay the fee in Installments for MSC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e1e95b42-a24b-4fb5-b3fb-9982e63a3e4b",
+    "data": [
+      {
+        "text": "What is the tuition fee for MSC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ee0714cc-d836-4673-b394-f91cdeee23bf",
+    "data": [
+      {
+        "text": "How much is the tuition fee for MSC?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

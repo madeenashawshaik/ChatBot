@@ -1,0 +1,46 @@
+[
+  {
+    "id": "da522e8c-be53-45fb-b83c-dd421822c287",
+    "data": [
+      {
+        "text": "ME please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e587041c-b4f3-418b-b12c-c78985d967d6",
+    "data": [
+      {
+        "text": "Master of Computer Engineering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "830d37b3-d15c-4488-8d8a-558b81194beb",
+    "data": [
+      {
+        "text": "ME",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "40533d3c-f5e0-497c-b9bd-e9dc9f1e8246",
+    "data": [
+      {
+        "text": "I am interested in ME",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

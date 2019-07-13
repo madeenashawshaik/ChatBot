@@ -1,0 +1,120 @@
+[
+  {
+    "id": "9d81c5f1-cb9b-4852-973e-674694663d58",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "cost",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of studying?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "47311624-78df-4741-9ca9-bc5853f0f874",
+    "data": [
+      {
+        "text": "How much",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is the tuition fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db9bcb76-c031-4394-ac8e-428887a8caad",
+    "data": [
+      {
+        "text": "How much is the cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e7d815e-99d2-4aa1-b6d9-6233b4e31d45",
+    "data": [
+      {
+        "text": "what is the Expenses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2894837b-cbdd-4e11-b82d-91c9f9537da5",
+    "data": [
+      {
+        "text": "What is the cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2c04361-f811-4f6c-9b05-46db1fe63c2b",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "amount",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of tuition ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "73cd0139-748c-43bd-8bcc-23f0305b1672",
+    "data": [
+      {
+        "text": "What is the tuition ",
+        "userDefined": false
+      },
+      {
+        "text": "fee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

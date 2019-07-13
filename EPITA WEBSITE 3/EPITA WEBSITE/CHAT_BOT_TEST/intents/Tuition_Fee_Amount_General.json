@@ -1,0 +1,43 @@
+{
+  "id": "c728074a-fa44-4617-a24e-18ffb7efeefd",
+  "name": "Tuition_Fee_Amount_General",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [
+        {
+          "name": "Tuition_Fee_Amount_General-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "what",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "is",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Which Program are you interested in? International Bachelor, MSc or ME?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

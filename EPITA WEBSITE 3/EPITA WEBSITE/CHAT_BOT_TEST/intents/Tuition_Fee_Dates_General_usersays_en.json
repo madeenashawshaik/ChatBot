@@ -1,0 +1,57 @@
+[
+  {
+    "id": "101c05fa-f8d6-4135-860b-44be493e1ffa",
+    "data": [
+      {
+        "text": "what is the deadline to pay the fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0b2eeda-9f28-4dc1-9a5b-2fcfa38dd4d2",
+    "data": [
+      {
+        "text": "What is the time of paying tuition fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bcb21dc4-5bcb-4d38-b452-a9542e410aa6",
+    "data": [
+      {
+        "text": "What is the schedule for paying tuition fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "75f0e59b-7081-4c2f-b0f5-ba8c7521c663",
+    "data": [
+      {
+        "text": "what is the last date for paying tuition fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "15e8a2d2-c042-422f-8f39-e208601e5cd8",
+    "data": [
+      {
+        "text": "When do I have to pay tuition fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
